@@ -1,4 +1,4 @@
-# TerraDreamer code starter
+# TerraDreamer 
 
 This is a compact PyTorch implementation template for the proposed geo-addressable EO world-model idea. It includes dataset loading, preprocessing, model, training, testing, evaluation, utility units, and unit tests.
 
